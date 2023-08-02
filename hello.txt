@@ -1,1 +1,0 @@
-mein zugefügter Text in der Datei blog1.txt
